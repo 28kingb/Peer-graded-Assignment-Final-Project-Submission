@@ -22,7 +22,7 @@ Error in load(name, envir = .GlobalEnv) :
 In addition: Warning messages:
 1: In readChar(con, 5L, useBytes = TRUE) :
   truncating string with embedded nuls
-2: file ‘bigram.RData’ has magic number 'X'
+2: file â€˜bigram.RDataâ€™ has magic number 'X'
   Use of save versions prior to 2 is deprecated 
 During startup - Warning message:
 unable to restore saved data in C:\Users\DESKTOP\Downloads\bigram.RData 
